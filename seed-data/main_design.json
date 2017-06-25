@@ -1,0 +1,9 @@
+{
+  "id": "_design/main_design",
+  "views": {
+    "all_friends": {
+      "map" : "function(doc) {  if (doc.type == 'friend') { emit(null); } }"
+    }
+  },
+  "language": "javascript"
+}

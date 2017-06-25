@@ -1,0 +1,24 @@
+{
+  "docs": [
+    {
+        "type": "friend",
+        "_id": "Matthew",
+        "timezone": "America/Chicago"
+    },
+    {
+        "type": "friend",
+        "_id": "Sara",
+        "timezone": "America/New_York"
+    },
+    {
+        "type": "friend",
+        "_id": "7PHP",
+        "timezone": "Indian/Mauritius"
+    },
+    {
+        "type": "friend",
+        "_id": "Alex",
+        "timezone": "Pacific/Auckland"
+    }
+  ]
+}
