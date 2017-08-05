@@ -3,7 +3,6 @@
 This is a simple [OpenWhisk][1] serverless app written in [PHP][2] that will
 tell you what time it is where your friend lives.
 
-(Note that this relies on [PR 2145][3])
 
 [1]: http://openwhisk.org
 [2]: http://php.net
